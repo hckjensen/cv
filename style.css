@@ -1,0 +1,29 @@
+body{
+  font-family:sans-serif;
+}
+
+.links{
+  text-decoration: none;
+}
+
+.profilepic{
+  border-radius: 50%;
+/*  border-color: black;
+  border-width: 6px;
+  border-style: solid; */
+
+}
+
+.tDate{
+  text-align: right;
+}
+
+
+.tWork{
+  padding-left: 20px;
+}
+
+/*header{
+  background-color: red;
+  border-radius: 10px;
+}*/
